@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<main role="main">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="description" content="Badger Bank">
+		<meta name="author" content="Cole Nelson">
+		<title>JavaScript Beta: Badger Bank</title>
+		<link rel="stylesheet" href="styles.css">
+		<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+		<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	</head>
+
+	<body>
+		<div class="w" style="background-color: #fff;">
+			<div class="nav w">
+				<h1>Badger Bank</h1>
+				<div class="nav_content">
+					<p>Contact Us</p>
+					<P>Phone:555-555-4321</P>
+					<P>Email:badgerbank@example.com</P>
+				</div>
+				<form>
+					<button class="btn btn-danger" type="submit" formaction='javascript:logout();'
+						style="margin-bottom: 10px">Logout</button>
+				</form>
+				<!-- <p>Have a question? Contact us at 555.555.4321 or by emailing badgerbank@example.com</p> -->
+			</div>
+			<div class="show w">
+				<div class="show_left">
+					<h2>Tip of the Day</h2>
+					<p>Don't badger the environment, enroll in paperless statements today!</p>
+					<p style="display: inline;font-size: 22px; ">Your Enrolling State: </p>
+					<p id="paperlessEnrollment" style="display: inline;font-size: 24px;">
+						<font color="blue">false</font>
+					</p>
+					<form>
+						<button class="btn btn-success btn-lg active" type="submit"
+							formaction='javascript:togglePaperlessEnrollment();'
+							style="margin-top: 12px">Enroll/Unenroll</button>
+					</form>
+				</div>
+				<img
+					src="https://upload.wikimedia.org/wikipedia/commons/8/82/Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg">
+				<div class="show_right">
+					<h2>Welcome!</h2>
+					<div class="panel panel-info">
+						<div class="panel-heading">
+							<h3 class="panel-title">Check out your account information.</h3>
+						</div>
+						<div class="panel-body panel-body-size">
+							<p style="font-size: 14px;">Name: Bucky Badger</p>
+							<p style="font-size: 14px;">Email: bucky.badger@example.com</p>
+							<p style="font-size: 14px;">Phone Number: 555.555.1234</p>
+						</div>
+					</div>
+					<!-- <p style="display: inline;font-size: 14px;"> Check out your account information.</p>
+					<p style="font-size: 14px;">Name: Bucky Badger</p>
+					<p style="font-size: 14px;">Email: bucky.badger@example.com</p>
+					<p style="font-size: 14px;">Phone Number: 555.555.1234</p> -->
+				</div>
+			</div>
+			<br>
+			<br>
+			<div class="account_title">
+				<div class="title">
+					<h2>Your Checkings and Savings Accounts</h2>
+				</div>
+				<div class="account_button">
+					<form method="get" action="./account_info/account_statement.pdf">
+						<button class="btn btn-primary" type="submit">
+							<span class="glyphicon glyphicon-download-alt"></span> Download Account Statements</button>
+					</form>
+				</div>
+				<div class="account_button">
+					<form method="get" action="./account_info/tax_information.pdf">
+						<button class="btn btn-primary" type="submit" style="margin-bottom: 10px">
+							<span class="glyphicon glyphicon-download-alt"></span> Download Tax Statements
+						</button>
+					</form>
+				</div>
+
+			</div>
+			<!-- <br> -->
+			<div class="tables">
+				<div class="content_left">
+					<h3>Checking Account xxx126</h3>
+					<div class="content_p">
+						<p style="display: inline">Balance: </p>
+						<p style="display: inline">
+							<font color="blue">472.61</font>
+						</p> &nbsp
+						<p style="display: inline">Interest Rate: </p>
+						<p style="display: inline">
+							<font color="blue">0.00%</font>
+						</p>
+					</div>
+					<table class="table table-hover content_table" style="width: 40%; height: auto;">
+						<thead>
+							<tr>
+								<th>Date</th>
+								<th>Description</th>
+								<th>Amount</th>
+								<th>Balance</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>09/13/2020</td>
+								<td>CHECK 192</td>
+								<td>-30.82</td>
+								<td rowspan="6">472.61</td>
+							</tr>
+							<tr>
+								<td>09/02/2020</td>
+								<td>MNTHLY DPST UW PAYROLL</td>
+								<td>321.87</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>08/27/2020</td>
+								<td>CHECK 191</td>
+								<td>-750.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>08/14/2020</td>
+								<td>CHECK 188</td>
+								<td>-10.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>08/02/2020</td>
+								<td>MNTHLY DPST UW PAYROLL</td>
+								<td>637.91</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>07/18/2020</td>
+								<td>VENMO</td>
+								<td>-25.00</td>
+								<td></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="content_center">
+					<h3>Savings Account xxx271</h3>
+					<div class="content_p">
+						<p style="display: inline">Balance: </p>
+						<p style="display: inline">
+							<font color="blue">248.34</font>
+						</p>&nbsp
+						<p style="display: inline">Interest Rate: </p>
+						<p style="display: inline">
+							<font color="blue">0.06%</font>
+						</p>
+					</div>
+
+					<table class="table table-hover content_table" style="width: 30%; height: auto;">
+						<thead>
+							<tr>
+								<th>Date</th>
+								<th>Description</th>
+								<th>Amount</th>
+								<th>Balance</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>07/21/2020</td>
+								<td>TRANSFER FROM EXT. ACCT</td>
+								<td>67.23</td>
+								<td rowspan="6">248.34</td>
+							</tr>
+							<tr>
+								<td>07/01/2020</td>
+								<td>TRANSFER FROM EXT. ACCT</td>
+								<td>52.68</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>04/06/2020</td>
+								<td>TRANSFER TO EXT. ACCT.</td>
+								<td>-127.63</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>03/11/2020</td>
+								<td>TRANSFER FROM EXT. ACCT</td>
+								<td>100.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>02/14/2020</td>
+								<td>TRANSFER TO EXT. ACCT.</td>
+								<td>50.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>01/01/2020</td>
+								<td>INTEREST PAID</td>
+								<td>0.06</td>
+								<td></td>
+							</tr>
+						</tbody>
+					</table>
+
+				</div>
+				<div class="content_right">
+					<h3>Savings Account xxx918</h3>
+					<div class="content_p">
+						<p style="display: inline">Balance: </p>
+						<p style="display: inline">
+							<font color="blue">5027.03</font>
+						</p>&nbsp
+						<p style="display: inline">Interest Rate: </p>
+						<p style="display: inline">
+							<font color="blue">0.06%</font>
+						</p>
+					</div>
+					<table class="table table-hover content_table" style="width: 30%; height: auto;">
+						<thead>
+							<tr>
+								<th>Name</th>
+								<th>Description</th>
+								<th>Amount</th>
+								<th>Balance</th>
+							</tr>
+						</thead>
+						<tbody>
+
+							<tr>
+								<td>01/01/2020</td>
+								<td>INTEREST PAID</td>
+								<td>3.01</td>
+								<td rowspan="6">5027.03</td>
+							</tr>
+							<tr>
+								<td>09/01/2020</td>
+								<td>TRANSFER TO EXT. ACCT.</td>
+								<td>-5000.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>01/01/2019</td>
+								<td>INTEREST PAID</td>
+								<td>6.01</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>01/01/2018</td>
+								<td>INTEREST PAID</td>
+								<td>6.01</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>01/01/2016</td>
+								<td>INTEREST PAID</td>
+								<td>6.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>01/01/2015</td>
+								<td>INTEREST PAID</td>
+								<td>6.00</td>
+								<td></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+			</div>
+			<br>
+			<br>
+			<div class="end">
+				<h2 style="margin-bottom: 20px">Your Beneficiaries</h2>
+				<table class="table table-bordered content_table" style="width: 50%; height: auto;">
+					<thead>
+						<tr>
+							<th>Name</th>
+							<th>Email</th>
+						</tr>
+					</thead>
+					<tr>
+						<td>Goldy Golpher</td>
+						<td>goldy.gopher@example.com</td>
+					</tr>
+					<tr>
+						<td>Pioneer Pete</td>
+						<td>pioneer.pete@example.com</td>
+					</tr>
+					<tbody>
+					</tbody>
+				</table>
+				<form>
+					<button class="btn btn-primary" type="submit" formaction="javascript:addBeneficiary()" ;
+						style="margin-bottom: 10px">
+						<span class="glyphicon glyphicon-plus"></span> Beneficiary
+					</button>
+				</form>
+			</div>
+		<!-- FOOTER -->
+		<footer>
+			<p class="end_footer w"><a href="#">Back to top</a></p>
+		</footer>
+	</div>
+		<!-- <p>Welcome to Badger Bank! Check out your account information.</p>
+			<h2>Your Account</h2> -->
+		<!-- <div id="multitables"></div> -->
+
+
+
+</main>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+	integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+	crossorigin="anonymous"></script>
+<script src="script.js"></script>
+</body>
+
+</html>

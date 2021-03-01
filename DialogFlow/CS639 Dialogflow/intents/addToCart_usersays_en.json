@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ae122242-486a-4688-a0e6-cdc3c1f0ebdd",
+    "data": [
+      {
+        "text": "I want to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Wisconsin Leggings",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4e3c743-d214-4e32-abfa-55678812ca86",
+    "data": [
+      {
+        "text": "Can I have ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number-integer",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Wisconsin Leggings",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64dd0fdb-d544-4497-80b9-e65a0053d978",
+    "data": [
+      {
+        "text": "I want to add ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": "  of ",
+        "userDefined": false
+      },
+      {
+        "text": "Bucky Badger Plush",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " into the cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab86b1d1-7515-4885-a64c-c7121e2e24f0",
+    "data": [
+      {
+        "text": "I decide to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Bucky Badger Plush",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

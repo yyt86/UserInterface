@@ -1,0 +1,50 @@
+[
+  {
+    "value": "welcome",
+    "synonyms": [
+      "welcome"
+    ]
+  },
+  {
+    "value": "sign in",
+    "synonyms": [
+      "sign in"
+    ]
+  },
+  {
+    "value": "log in",
+    "synonyms": [
+      "log in"
+    ]
+  },
+  {
+    "value": "sign up",
+    "synonyms": [
+      "sign up"
+    ]
+  },
+  {
+    "value": "home",
+    "synonyms": [
+      "home"
+    ]
+  },
+  {
+    "value": "cart",
+    "synonyms": [
+      "cart"
+    ]
+  },
+  {
+    "value": "review cart",
+    "synonyms": [
+      "review cart"
+    ]
+  },
+  {
+    "value": "confirm cart",
+    "synonyms": [
+      "confirm cart"
+    ]
+  }
+]

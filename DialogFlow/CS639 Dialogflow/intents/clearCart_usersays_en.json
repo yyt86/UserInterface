@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ea4be9cc-7e65-4aa0-8cfc-f2dfbbc456ba",
+    "data": [
+      {
+        "text": "Clear the cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdd9837f-3510-459a-80d7-bf8ae216e12b",
+    "data": [
+      {
+        "text": "Clean the cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0b6f077-7f37-48f3-b2b0-8267a221f2b6",
+    "data": [
+      {
+        "text": "Can you help to remove all things in my cart?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ee4a0e9-b59b-4137-894f-aabb97b232a1",
+    "data": [
+      {
+        "text": "I\u0027d like to empty my cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7632ba6e-10ab-4f9e-b380-81dfcd0110c4",
+    "data": [
+      {
+        "text": "I don\u0027t want to buy anything.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

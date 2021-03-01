@@ -1,0 +1,94 @@
+[
+  {
+    "id": "8799007b-50e7-4b41-8087-789fee7a48b9",
+    "data": [
+      {
+        "text": "Can you show me the information of ",
+        "userDefined": false
+      },
+      {
+        "text": "Wisconsin Leggings",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec24ebfd-d192-4e83-aaff-14da606ae71a",
+    "data": [
+      {
+        "text": "Could you give me more information about ",
+        "userDefined": false
+      },
+      {
+        "text": "Wisconsin Leggings",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "476de6b3-7fea-40de-9278-041107776d50",
+    "data": [
+      {
+        "text": "Tell me the details about ",
+        "userDefined": false
+      },
+      {
+        "text": "Wisconsin Leggings",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdb50386-4b43-4617-9983-134380704a39",
+    "data": [
+      {
+        "text": "Show the infomation of ",
+        "userDefined": false
+      },
+      {
+        "text": "Bucky Badger Plush",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

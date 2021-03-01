@@ -1,0 +1,38 @@
+[
+  {
+    "value": "hats",
+    "synonyms": [
+      "hats"
+    ]
+  },
+  {
+    "value": "sweatshirts",
+    "synonyms": [
+      "sweatshirts"
+    ]
+  },
+  {
+    "value": "plushes",
+    "synonyms": [
+      "plushes"
+    ]
+  },
+  {
+    "value": "leggings",
+    "synonyms": [
+      "leggings"
+    ]
+  },
+  {
+    "value": "tees",
+    "synonyms": [
+      "tees"
+    ]
+  },
+  {
+    "value": "bottoms",
+    "synonyms": [
+      "bottoms"
+    ]
+  }
+]

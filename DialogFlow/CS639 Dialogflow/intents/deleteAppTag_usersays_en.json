@@ -1,0 +1,63 @@
+[
+  {
+    "id": "bf7acf5d-e43a-4b63-ba62-be0d760743ca",
+    "data": [
+      {
+        "text": "hoodies",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": " are not suitable for me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0125cb1-79dd-4c2e-946b-d00614551bd1",
+    "data": [
+      {
+        "text": "Grey",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": " is not my favor.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb555e28-10b5-4d61-ae75-27f2b4306bae",
+    "data": [
+      {
+        "text": "I don\u0027t like ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": " ones.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

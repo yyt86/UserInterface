@@ -1,0 +1,140 @@
+[
+  {
+    "id": "8261df68-2b41-4faf-b686-5fcb4589fdd1",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": false
+      },
+      {
+        "text": " clothes.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0f7e193-f755-455e-926f-f57e7fc1cad4",
+    "data": [
+      {
+        "text": "Do you have a ",
+        "userDefined": false
+      },
+      {
+        "text": "grey",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": " one?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29490418-8bfa-4ab7-8d1a-d915ccea6bf8",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "grey",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": " one.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb94f7a9-c97e-4a55-8c43-bb5dd5914265",
+    "data": [
+      {
+        "text": "Show me some of ",
+        "userDefined": false
+      },
+      {
+        "text": "sweats",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e7266b6-01a9-46da-b0cf-8298fdc92fa5",
+    "data": [
+      {
+        "text": "May I see those with ",
+        "userDefined": false
+      },
+      {
+        "text": "badger",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fea3206-3fab-44ee-ac09-b9431b18473f",
+    "data": [
+      {
+        "text": "Do you have a ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": " one?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

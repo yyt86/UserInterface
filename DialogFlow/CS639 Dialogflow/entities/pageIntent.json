@@ -1,0 +1,9 @@
+{
+  "id": "651881a5-dec9-491c-8a03-f2c5ab91090c",
+  "name": "pageIntent",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ef0f7fd7-2b2d-4106-8576-15dc3e0cae9c",
+    "data": [
+      {
+        "text": "They are not my preference.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4124daa-7b78-45ee-882d-780338cf946a",
+    "data": [
+      {
+        "text": "Those products are not suitable for me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7ebd2db-717c-4b8f-bc82-2a4bfeb7926d",
+    "data": [
+      {
+        "text": "I don\u0027t like all of them.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

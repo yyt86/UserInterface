@@ -1,0 +1,126 @@
+[
+  {
+    "id": "2933762e-6207-47e7-9828-196224ecca00",
+    "data": [
+      {
+        "text": "My username is ",
+        "userDefined": false
+      },
+      {
+        "text": "username",
+        "meta": "@sys.any",
+        "alias": "username",
+        "userDefined": true
+      },
+      {
+        "text": " and my password is ",
+        "userDefined": false
+      },
+      {
+        "text": "password",
+        "meta": "@sys.any",
+        "alias": "password",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69c6c8ac-9ec3-402a-b791-fb0f988a3729",
+    "data": [
+      {
+        "text": "My account is ",
+        "userDefined": false
+      },
+      {
+        "text": "username",
+        "meta": "@sys.any",
+        "alias": "username",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "password",
+        "meta": "@sys.any",
+        "alias": "username",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e80073b-a27e-477c-9c04-279afc7b3e9e",
+    "data": [
+      {
+        "text": "Log in with ",
+        "userDefined": false
+      },
+      {
+        "text": "username",
+        "meta": "@sys.any",
+        "alias": "username",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "password.",
+        "meta": "@sys.any",
+        "alias": "password",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc77a023-5875-41f2-83ee-9f0fc20717ff",
+    "data": [
+      {
+        "text": "Log in with  username ",
+        "userDefined": false
+      },
+      {
+        "text": "username",
+        "meta": "@sys.any",
+        "alias": "username",
+        "userDefined": true
+      },
+      {
+        "text": " and password ",
+        "userDefined": false
+      },
+      {
+        "text": "password.",
+        "meta": "@sys.any",
+        "alias": "password",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

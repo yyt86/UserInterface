@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    background-color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.w{
+    width: 1200px;
+    margin: auto;
+    
+}
+
+.nav{
+    height: 60px;
+    /* background-color: purple; */
+}
+
+.nav h1{
+    float: left;
+    padding-top: 15px;
+    margin-left: 20px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+.nav_content{
+    float: left;
+    padding-top: 8px;
+    margin-left: 600px;
+    height: 30px;
+    width: 220px;
+    /* background-color: pink; */
+}
+
+
+.nav p{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav form button{
+    float: right;
+    height: 30px;
+    width: 90px;
+    margin-right: 10px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.show{
+    height: 210px;
+    margin-top: 1px;
+    border: 1px solid black;
+    background-color: rgb(157, 177, 117);
+}
+.show img{
+    /* margin: 5px; */
+    /* height: 190px; */
+    margin: 5px 50px 5px;
+    width: 300px;
+}
+.show .show_left{
+    float: left;
+    width: 400px;
+    margin-left: 20px;
+    text-align: center;
+    
+}
+.show .show_right{
+    float: right;
+    width: 300px;
+    margin-left: 10px;
+    
+}
+.show .show_right h2{
+    padding: 6px 0px 4px;
+    text-align: center;
+}
+.show .show_right p{
+    padding: 3px 0px 0px;
+    text-align: left;
+    
+}
+.show .show_left h2{
+    padding: 6px 0px 4px;
+    text-align: center;
+    /* margin-left: 40px; */
+    
+}
+.show .show_left p{
+    padding: 3px 0px 0px;
+  
+}
+.show .show_left form{
+    margin-top: 2px;
+}
+.show .show_left form button{
+    height: 40px;
+    width: 240px;
+    border-radius: 8px;
+}
+
+.title{
+    float: left;
+    width: 550px;
+    margin-left: 75px;
+}
+
+.account_button{
+    float: center;
+    margin-left: 650px;
+    /* width: 450px;
+    margin-left: 75px; */
+}
+
+.account_button{
+    float: right;
+    margin-right: 75px; 
+}
+
+.tables{
+    /* float: left; */
+    height: 430px;
+    /* background-color: silver; */
+}
+
+.content_left{
+    float: left;
+    width: 400px;
+    margin-left: 75px;
+}
+
+.content_center{
+    float: center;
+    width: 450px;
+    margin-left: 500px;
+}
+
+.content_right{
+    float: right;
+    width: 400px;
+    margin-right: 25px;
+}
+
+.tables h3{
+    border-radius: 5px;
+    padding-left: 5px;
+    width: 330px;
+    background-color: rgb(157, 189, 157);
+    /* height: 32px; */
+    vertical-align:middle;
+    padding-top: 5px;
+    padding-top:5px;
+
+}
+.content_p{
+    padding:5px 2px 5px;
+    margin-left: 5px;
+    /* font-size: 16px; */
+}
+.content_table{
+    float: left;    
+    text-align: left;
+    vertical-align:middle;
+}
+.content_table thead tr th{
+    padding: 0px 5px 0px;
+    font-size: small;
+    margin-left: 75px;
+}
+
+/* .content_table thead tr th:nth-child(1) {
+    width: 22%;
+  }
+  
+  .content_table   thead tr th:nth-child(2) {
+    width: 45%;
+  }
+  
+  .content_table  thead tr th:nth-child(3) {
+    width: 16.5%;
+  }
+  
+  .content_table  thead tr th:nth-child(4) {
+    width: 16.5%;
+  }
+
+  .content_table tbody tr td:nth-child(1) {
+    width: 22%;
+  }
+  
+  .content_table   tbody tr td:nth-child(2) {
+    width: 45%;
+  }
+  
+  .content_table  tbody tr td:nth-child(3) {
+    width: 16.5%;
+  }
+  
+  .content_table  tbody tr td:nth-child(4) {
+    width: 16.5%;
+  } */
+  
+
+  /* .item1 { width:22% }
+  .item2 { width:45% }
+  .item3 { width:16.5% }
+  .item4 { width:16.5% } */
+  
+
+.content_table tbody tr td{
+    padding: 2px 5px 2px;
+    font-size: small;
+}
+
+/* .end_content_table{
+    float: left;    
+    text-align: left;
+}
+.end_content_table thead tr th{
+    padding: 0px 20px 0px;
+    font-size: x-small;
+}
+.end_content_table tbody tr td{
+    padding: 2px 20px 2px;
+    font-size: xx-small;
+} */
+.end{
+    height: 85px;
+    /* background-color: slateblue; */
+}
+.end form{
+   display: inline;
+}
+
+.end form button{
+    margin-top: 30px;
+    margin-left: 180px;
+}
+.end_footer{
+    display: inline-block;
+    width: 100px;
+    margin-left: 300px;
+}
+

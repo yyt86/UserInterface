@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c0ffde06-16de-4e43-a5e7-bbb0de925e31",
+    "data": [
+      {
+        "text": "Guide me to the review cart page.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6af76bbc-8fe1-4771-8228-5c1151a7fe9a",
+    "data": [
+      {
+        "text": "I want to review the items in my cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e323300-4367-49a8-91c2-ebc9f57651b6",
+    "data": [
+      {
+        "text": "I want to review items in my cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d068715d-30d4-4276-bc5c-89ae80779aaa",
+    "data": [
+      {
+        "text": "Could you navigate to the cart review page?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d16ca47-2f11-49bb-9540-0cd2c700879d",
+    "data": [
+      {
+        "text": "May I go to the cart review page?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d05dad94-8173-47fc-bb43-df01aa38b43a",
+    "data": [
+      {
+        "text": "May I go have a look my products in cart?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

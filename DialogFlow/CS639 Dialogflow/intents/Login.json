@@ -1,0 +1,87 @@
+{
+  "id": "a901ebc5-08a6-480b-a50c-831d395a6ab8",
+  "name": "Login",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "528a8159-d362-4a9c-979d-b70037305c94",
+          "name": "username",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$username",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Waht\u0027s your username?"
+            },
+            {
+              "lang": "en",
+              "value": "Please tell me your username."
+            },
+            {
+              "lang": "en",
+              "value": "Could you give me your username?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c2f0cb7a-583c-4999-ba56-60101dfb0b33",
+          "name": "password",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$password",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what\u0027s your password?"
+            },
+            {
+              "lang": "en",
+              "value": "Please tell me your password."
+            },
+            {
+              "lang": "en",
+              "value": "Could your tell me your password?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

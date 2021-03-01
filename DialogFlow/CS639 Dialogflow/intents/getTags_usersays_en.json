@@ -1,0 +1,94 @@
+[
+  {
+    "id": "090b7fbe-b041-4723-9e17-4db415d8b91f",
+    "data": [
+      {
+        "text": "I\u0027d like to see the tags of ",
+        "userDefined": false
+      },
+      {
+        "text": "bottoms",
+        "meta": "@category",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae8decb1-670f-4e5b-b38c-7ba6fac93cd9",
+    "data": [
+      {
+        "text": "What tags of ",
+        "userDefined": false
+      },
+      {
+        "text": "tees",
+        "meta": "@category",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": " do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3aae210f-ac5d-4ddc-a6d6-197deddcc614",
+    "data": [
+      {
+        "text": "Show me the tags of ",
+        "userDefined": false
+      },
+      {
+        "text": "tees",
+        "meta": "@category",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94dc0ef0-28a7-45f9-bba1-0225df68c7bf",
+    "data": [
+      {
+        "text": "What are the tags of ",
+        "userDefined": false
+      },
+      {
+        "text": "hats",
+        "meta": "@category",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

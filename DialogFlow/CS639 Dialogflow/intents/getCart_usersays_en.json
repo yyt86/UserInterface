@@ -1,0 +1,67 @@
+[
+  {
+    "id": "0fde127d-7598-4359-8201-60478a3c09bd",
+    "data": [
+      {
+        "text": "Can you tell me the products in my cart?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebec537b-680b-4dac-88a0-9a0d444e3c78",
+    "data": [
+      {
+        "text": "What products I have added into cart?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46e62640-a2ff-4f4d-b74f-b5831b4dc658",
+    "data": [
+      {
+        "text": "Give me the detail of products in cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d00a7d33-be6c-4454-8011-14ae77be2db7",
+    "data": [
+      {
+        "text": "How many items in my cart?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec040132-532c-429f-9cb0-2f830ec7d662",
+    "data": [
+      {
+        "text": "What\u0027s in my cart?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "996bcfa4-5000-4844-ba35-70911cc19847",
+    "data": [
+      {
+        "text": "Welcome",
+        "meta": "@pageIntent",
+        "alias": "pageIntent",
+        "userDefined": true
+      },
+      {
+        "text": " to the WiscShop.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88dbea35-b7ff-411f-bc0b-65837089ec58",
+    "data": [
+      {
+        "text": "Show the products in ",
+        "userDefined": false
+      },
+      {
+        "text": "hats",
+        "meta": "@category",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": " page.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27c1e0a9-2ce3-4f72-a18c-9ad95967687a",
+    "data": [
+      {
+        "text": "Change page to the ",
+        "userDefined": false
+      },
+      {
+        "text": "cart",
+        "meta": "@pageIntent",
+        "alias": "pageIntent",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09f15bbb-7c70-467c-a086-aa5753b23add",
+    "data": [
+      {
+        "text": "Navigate to the ",
+        "userDefined": false
+      },
+      {
+        "text": "log in",
+        "meta": "@pageIntent",
+        "alias": "pageIntent",
+        "userDefined": true
+      },
+      {
+        "text": " page.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb1e211d-6080-4742-be21-73bc7d13b2f9",
+    "data": [
+      {
+        "text": "Show me the page of ",
+        "userDefined": false
+      },
+      {
+        "text": "Bucky Badger Pillow",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5a137b7-aaaa-490a-8c95-2fe9171cc91b",
+    "data": [
+      {
+        "text": "Go to ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "meta": "@pageIntent",
+        "alias": "pageIntent",
+        "userDefined": true
+      },
+      {
+        "text": " page.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

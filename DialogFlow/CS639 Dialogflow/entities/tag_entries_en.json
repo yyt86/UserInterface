@@ -1,0 +1,146 @@
+[
+  {
+    "value": "men",
+    "synonyms": [
+      "men"
+    ]
+  },
+  {
+    "value": "women",
+    "synonyms": [
+      "women"
+    ]
+  },
+  {
+    "value": "red",
+    "synonyms": [
+      "red"
+    ]
+  },
+  {
+    "value": "white",
+    "synonyms": [
+      "white"
+    ]
+  },
+  {
+    "value": "logo",
+    "synonyms": [
+      "logo"
+    ]
+  },
+  {
+    "value": "printed",
+    "synonyms": [
+      "printed"
+    ]
+  },
+  {
+    "value": "cotton",
+    "synonyms": [
+      "cotton"
+    ]
+  },
+  {
+    "value": "polyester",
+    "synonyms": [
+      "polyester"
+    ]
+  },
+  {
+    "value": "shortsleeve",
+    "synonyms": [
+      "shortsleeve"
+    ]
+  },
+  {
+    "value": "longsleeve",
+    "synonyms": [
+      "longsleeve"
+    ]
+  },
+  {
+    "value": "shorts",
+    "synonyms": [
+      "shorts"
+    ]
+  },
+  {
+    "value": "pants",
+    "synonyms": [
+      "pants"
+    ]
+  },
+  {
+    "value": "sweats",
+    "synonyms": [
+      "sweats"
+    ]
+  },
+  {
+    "value": "hoodies",
+    "synonyms": [
+      "hoodies"
+    ]
+  },
+  {
+    "value": "grey",
+    "synonyms": [
+      "grey"
+    ]
+  },
+  {
+    "value": "youth",
+    "synonyms": [
+      "youth"
+    ]
+  },
+  {
+    "value": "adult",
+    "synonyms": [
+      "adult"
+    ]
+  },
+  {
+    "value": "embroidered",
+    "synonyms": [
+      "embroidered"
+    ]
+  },
+  {
+    "value": "black",
+    "synonyms": [
+      "black"
+    ]
+  },
+  {
+    "value": "fuzzy",
+    "synonyms": [
+      "fuzzy"
+    ]
+  },
+  {
+    "value": "badger",
+    "synonyms": [
+      "badger"
+    ]
+  },
+  {
+    "value": "pillow",
+    "synonyms": [
+      "pillow"
+    ]
+  },
+  {
+    "value": "keychain",
+    "synonyms": [
+      "keychain"
+    ]
+  },
+  {
+    "value": "visor",
+    "synonyms": [
+      "visor"
+    ]
+  }
+]

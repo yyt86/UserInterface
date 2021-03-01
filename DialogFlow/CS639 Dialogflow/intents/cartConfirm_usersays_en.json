@@ -1,0 +1,67 @@
+[
+  {
+    "id": "e86bceda-09b4-4685-a6f4-d0e9512f5c22",
+    "data": [
+      {
+        "text": "Navigate to cart confirming page.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe89b48f-7124-407e-ac5e-625d1166fcd3",
+    "data": [
+      {
+        "text": "I decide to buy all products in the cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdfbb04d-719e-40ff-a21d-ee3697b6f030",
+    "data": [
+      {
+        "text": "Go to confirm the cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9c2c676-a388-4622-9a54-8332365b8873",
+    "data": [
+      {
+        "text": "I am going to purchase the items in cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91b26bb3-d37f-4b71-b979-f8bedce6579a",
+    "data": [
+      {
+        "text": "I want to buy all things in my cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

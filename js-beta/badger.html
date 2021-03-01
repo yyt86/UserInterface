@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+	<main role="main">
+    
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+			<meta name="description" content="Badger Bank">
+			<meta name="author" content="Cole Nelson">
+			<title>JavaScript Beta: Badger Bank</title>
+			<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+            <link rel="stylesheet" href="styles.css">
+            <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+	        <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		</head>
+		<body>
+			
+			<h1>Badger Bank</h1>
+			
+			<br>
+			<br>
+			<br>
+			
+			<br>
+			<br>
+			<br>
+			<span class="glyphicon glyphicon-question-sign"></span>
+			<p>Contact Us</p>
+			<p>Have a question? Contact us at 555.555.4321 or by emailing badgerbank@example.com</p>
+			<br>
+			<br>
+			<br>
+			<h2>Your Account</h2>
+			
+			<p style="display: inline">Enrolled in paperless statements: </p><p id="paperlessEnrollment" style="display: inline">false</p>
+			
+			<br>
+			<br>
+			<br>
+			<h2>Your Checkings and Savings Accounts</h2>
+
+
+			<div id="account">
+				<div id="tip">
+					<h2>Tip of the Day</h2>
+					<p>Don't badger the environment, enroll in paperless statements today!</p>
+					<p style="display: inline">Enrolled in paperless statements: </p><p id="paperlessEnrollment" style="display: inline">false</p>
+					<form>
+						<button class="btn btn-success btn-lg active" type="submit" formaction='javascript:togglePaperlessEnrollment();' style="margin-top: 10px">Enroll/Unenroll</button>
+					</form>
+				</div>
+				<div id="picture">
+					<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg" height="200px" width="auto">
+				</div>
+				<div id="account_info">
+					<h2>Welcome!</h2>
+					<p>Welcome to Badger Bank! Check out your account information.</p>
+					<p>Name: Bucky Badger</p>
+					<p>Email: bucky.badger@example.com</p>
+					<p>Phone Number: 555.555.1234</p>
+				</div>
+			</div>>
+			<div id="multitables">
+				<div class="table1">
+			<h3>Checking Account xxx126</h3>
+			<p style="display: inline">Balance: </p><p style="display: inline">472.61</p>
+			<p style="display: inline">Interest Rate: </p><p style="display: inline">0.00%</p>
+			<table  class="table table-hover t_style">
+				<thead>
+					<tr>
+						<th>Date</th>
+						<th>Description</th>
+						<th>Amount</th>
+						<th>Balance</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>09/13/2020</td>
+						<td>CHECK 192</td>
+						<td>-30.82</td>
+						<td>472.61</td>
+					</tr>
+					<tr>
+						<td>09/02/2020</td>
+						<td>MNTHLY DPST UW PAYROLL</td>
+						<td>321.87</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>08/27/2020</td>
+						<td>CHECK 191</td>
+						<td>-750.00</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>08/14/2020</td>
+						<td>CHECK 188</td>
+						<td>-10.00</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>08/02/2020</td>
+						<td>MNTHLY DPST UW PAYROLL</td>
+						<td>637.91</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>07/18/2020</td>
+						<td>VENMO</td>
+						<td>-25.00</td>
+						<td></td>
+					</tr>
+				</tbody>
+			</table>
+				</div>
+
+			
+				<div class="table2">
+			<h3>Savings Account xxx271</h3>
+			<p style="display: inline">Balance: </p><p style="display: inline">248.34</p>
+			<p style="display: inline">Interest Rate: </p><p style="display: inline">0.06%</p>
+			<table class="table table-hover t_style", style="margin-bottom: 10px">
+				<thead>
+					<tr>
+						<th>Date</th>
+						<th>Description</th>
+						<th>Amount</th>
+						<th>Balance</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>07/21/2020</td>
+						<td>TRANSFER FROM EXT. ACCT</td>
+						<td>67.23</td>
+						<td>248.34</td>
+					</tr>
+					<tr>
+						<td>07/01/2020</td>
+						<td>TRANSFER FROM EXT. ACCT</td>
+						<td>52.68</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>04/06/2020</td>
+						<td>TRANSFER TO EXT. ACCT.</td>
+						<td>-127.63</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>03/11/2020</td>
+						<td>TRANSFER FROM EXT. ACCT</td>
+						<td>100.00</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>02/14/2020</td>
+						<td>TRANSFER TO EXT. ACCT.</td>
+						<td>50.00</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>01/01/2020</td>
+						<td>INTEREST PAID</td>
+						<td>0.06</td>
+						<td></td>
+					</tr>
+				</tbody>
+			</table>
+				</div>
+
+
+				<div class="table3">
+			<h3>Savings Account xxx918</h3>
+			<p style="display: inline">Balance: </p><p style="display: inline">5027.03</p> &nbsp
+			<p style="display: inline">Interest Rate: </p><p style="display: inline">0.06%</p>
+			<table class="table table-hover t_style", style="margin-bottom: 10px">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Description</th>
+						<th>Amount</th>
+						<th>Balance</th>
+					</tr>
+				</thead>
+				<tbody>
+
+					<tr>
+						<td>01/01/2020</td>
+						<td>INTEREST PAID</td>
+						<td>3.01</td>
+						<td>5027.03</td>
+					</tr>
+					<tr>
+						<td>09/01/2020</td>
+						<td>TRANSFER TO EXT. ACCT.</td>
+						<td>-5000.00</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>01/01/2019</td>
+						<td>INTEREST PAID</td>
+						<td>6.01</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>01/01/2018</td>
+						<td>INTEREST PAID</td>
+						<td>6.01</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>01/01/2016</td>
+						<td>INTEREST PAID</td>
+						<td>6.00</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>01/01/2015</td>
+						<td>INTEREST PAID</td>
+						<td>6.00</td>
+						<td></td>
+					</tr>
+				</tbody>
+			</table>
+				</div>
+			</div>
+			<br>
+			<br>
+			
+			<form method="get" action ="./account_info/account_statement.pdf">
+				<button class="btn btn-primary" type="submit" style="margin-bottom: 10px">Download Account Statements</button>
+			</form>
+			<form method="get" action ="./account_info/tax_information.pdf">
+				<button class="btn btn-primary" type="submit" style="margin-bottom: 10px">Download Tax Statements</button>
+			</form>
+			<br>
+			<br>
+			<br>
+			<h2>Your Beneficiaries</h2>
+			<table class="table table-bordered" style="margin-bottom: 10px">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Email</th>
+					</tr>
+				</thead>
+					<tr>
+						<td>Goldy Golpher</td>
+						<td>goldy.gopher@example.com</td>
+					</tr>
+					<tr>
+						<td>Pioneer Pete</td>
+						<td>pioneer.pete@example.com</td>
+					</tr>
+				<tbody>
+
+				</tbody>
+			</table>
+			<form>
+				<button class="btn btn-primary" type="submit" formaction='javascript:addBeneficiary();' style="margin-bottom: 10px">Add Beneficiary</button>
+			</form>
+
+			<br>
+			<br>
+			
+			<form>
+				
+					
+				
+				<button class="btn btn-info btn-default" type="submit" formaction='javascript:logout();' style="margin-bottom: 10px">
+					<span class="glyphicon glyphicon-save"></span> Save
+				</button>
+			</form>
+			
+			<!-- FOOTER -->
+			<footer>
+				<p><a href="#">Back to top</a></p>
+			</footer>
+	</main>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="script.js"></script>
+	</body>
+</html>
